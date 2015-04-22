@@ -40,3 +40,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin]
 
 #coffee script
 gem 'coffee-script-source', '1.8.0'
+
+gem 'simple_form'
